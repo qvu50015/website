@@ -1,0 +1,59 @@
+.apple_card{
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block
+}
+
+.apple_card .apple_card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.apple_card .apple_card-title{
+  font-family: sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 20%,);
+
+}
+
+.apple_card .apple_card-description{
+  font-family: 'Times New Roman', Times, serif;
+  color: hsl(0, 0%, 20%);
+}
+
+.banana_card{
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+
+}
+
+.banana_card .banana_card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.banana_card .banana_card-title{
+  font-family: sans-serif;
+  margin: 0;
+  color: hsl(0, 0%, 20%,);
+}
+
+.banana_card .banana_card-description{
+  font-family: 'Times New Roman', Times, serif;
+  color: hsl(0, 0%, 20%);
+}
