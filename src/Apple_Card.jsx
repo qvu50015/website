@@ -4,7 +4,7 @@ function apple_Card() {
   return (
     <div className="apple_card">
       <img
-        classname="apple_card-image"
+        className="apple_card-image"
         src={photo}
         alt="photo of an apple"
       ></img>

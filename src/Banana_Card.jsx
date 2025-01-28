@@ -4,7 +4,7 @@ function banana_Card() {
   return (
     <div className="banana_card">
       <img
-        classname="banana_card-image"
+        className="banana_card-image"
         src={photo}
         alt="photo of an banana"
       ></img>
